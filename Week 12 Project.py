@@ -1,11 +1,3 @@
-# DSC 510 - Winter 2021
-# Week 12
-# Weather Program - Final Project
-# Author - Shashi Bhushan
-# 03/05/2022
-
-# Change #None
-
 import requests  # importing requests library
 
 
